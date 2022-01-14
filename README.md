@@ -1,5 +1,5 @@
 # ZR6LSD's Automatic SvxLink Installation
-  ZR6LSD's Automatic SvxLink Installation Script
+  ZR6LSD's Automatic SvxLink Installation Script Raspberry Pi
 
 # SvxLink
 
