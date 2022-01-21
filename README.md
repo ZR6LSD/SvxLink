@@ -4,7 +4,11 @@
 
 Requirements
 Raspberry PI (model doesn't matter)
-  
+
+# To use the Installation Script.
+
+1 Just clone my repository on a fresh installation of raspbian.
+2  
 
 # SvxLink
 
