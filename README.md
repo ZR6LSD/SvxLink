@@ -1,4 +1,4 @@
-# ZR6LSD's Automatic SvxLink Installation (Echolink)
+# ZR6LSD's Automatic SvxLink Installation Script (Echolink)
 
  ZR6LSD's Automatic SvxLink Installation Script for Raspberry Pi
 
