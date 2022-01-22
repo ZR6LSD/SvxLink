@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#MIT License
+# MIT License
 
 # Copyright (c) [2022] [Dave Vermeulen]
 
@@ -29,7 +29,7 @@ echo                     "Raspbian / Arm32-Bit / Arm64-Bit"
 echo  "--------------------------------------------------------------"
 
 			 
-	echo "--------------------------------------------------------------"
+    echo "--------------------------------------------------------------"
     echo "   This Script Currently Requires a internet connection       "
     echo "--------------------------------------------------------------"
     wget -q --tries=10 --timeout=5 http://www.google.com -O /tmp/index.google &> /dev/null
@@ -63,7 +63,7 @@ sudo apt-get update -y
 sudo apt-get clean
 sleep 1
                 
-				echo "-------------------------------------------------------------------------"
+		echo "-------------------------------------------------------------------------"
                 echo "Temporarily adding the Buster software repository and installing SvxLink."
                 echo "-------------------------------------------------------------------------"
 
@@ -140,7 +140,7 @@ sudo rm -r /home/pi/SvxLink
        echo	"-------------------------------------------------------------------------"
 	   echo "---------------------------------------------------------------------------------------"
        echo "             To Manually Tweak The Svxlink or OS Configuration Files 
-                            	       open them with nano editor.  " 
+                            	          open them with nano editor.  " 
        echo	"---------------------------------------------------------------------------------------"
 	   echo "---------------------------------------------------------------------------------------"
        echo "   The locations of the config files can be found in the installation guide
