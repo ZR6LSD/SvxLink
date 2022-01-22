@@ -117,8 +117,8 @@ read -p 'SYSOPNAME: ' qthvar
 sudo echo 'SYSOPNAME='$qthvar  >> /home/pi/SvxLink/ModuleEchoLink.conf
 echo
 echo
-# Ask the user for name
-echo Please enter your name
+# Ask the user for location
+echo Please enter your location
 echo
 read -p 'LOCATION=: ' locvar 
 echo 
