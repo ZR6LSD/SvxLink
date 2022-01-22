@@ -135,9 +135,9 @@ sudo cp -r /home/pi/SvxLink/rc.local /etc/
 sudo rm -r /home/pi/SvxLink
 
 	
-	   echo "-------------------------------------------------------------------------"
+       echo "-------------------------------------------------------------------------"
        echo "      Reboot Now! Setup and configuration of your echolink is now done   " 
-       echo	"-------------------------------------------------------------------------"
+       echo "-------------------------------------------------------------------------"
 	   echo "---------------------------------------------------------------------------------------"
        echo "             To Manually Tweak The Svxlink or OS Configuration Files 
                             	          open them with nano editor.  " 
@@ -156,6 +156,7 @@ while true; do
     esac
 	done
 	exit
+	
 	
 #Please be sure to check out my youtube channel Thanks! 73's Dave ZR6LSD
 #YouTube: https://www.youtube.com/channel/UChsvCpuR1VJg0w5DX9j5GsA
