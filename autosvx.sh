@@ -63,7 +63,7 @@ sudo apt-get update -y
 sudo apt-get clean
 sleep 1
                 
-				echo "-------------------------------------------------------------------------"
+		echo "-------------------------------------------------------------------------"
                 echo "Temporarily adding the Buster software repository and installing SvxLink."
                 echo "-------------------------------------------------------------------------"
 
