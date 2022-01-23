@@ -3,7 +3,7 @@
  ZR6LSD's Automatic SvxLink Installation Script for the Raspberry Pi
 
 Requirements :
-### Raspberry PI (model doesn't matter)
+Raspberry PI (model doesn't matter)
 
 # To use the Installation Script.
 
