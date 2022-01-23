@@ -7,13 +7,13 @@ Raspberry PI (model doesn't matter)
 
 # To use the Installation Script.
 
-1: Just clone my repository on a fresh installation of raspbian.
-2: cd to /home/pi/SvxLink/ 
-3: Make the file autosvx.sh executable with chmod +x autosvx.sh 
-4: Run the script ./autosvx.sh
-5: Follow the prompts and answer a few questions
-6: Reboot
-7: Done enjoy SvxLink
+1. Just clone my repository on a fresh installation of raspbian.
+2. cd to /home/pi/SvxLink/ 
+3. Make the file autosvx.sh executable with chmod +x autosvx.sh 
+4. Run the script ./autosvx.sh
+5. Follow the prompts and answer a few questions
+6. Reboot
+7. Done enjoy SvxLink
 
 # SvxLink
 
