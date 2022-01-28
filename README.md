@@ -37,7 +37,7 @@ Have fun with it! But keep in mind that I have not tested them on every other Li
 
 # Donations
 
-However, if you find any of my script's or videos on my channel enjoyable or helpful, then any small donations would be greatly appreciated, and would help towards me creating more content. If you would like to help with a donation, you can do so via.
+However, if you find any of my work or videos on my channel enjoyable or helpful, then any small donations would be greatly appreciated, and would help towards me creating more content. If you would like to help with a donation, you can do so via.
 
 Litecoin LTC: LMGEaMySbztMVftx6WJextU1WEQAEEnrR9
 
