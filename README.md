@@ -4,13 +4,19 @@
 
 Requirements :
 Raspberry PI (model doesn't matter)
+By default my config files that are used by my script are preconfigured to use a usb sound card and serial adapter.
+This can be manually changed if needed by editing ```svxlink.conf```located in ```/etc/svxlink```
+Any additional configuration to Echolink can be manually changed if needed by editing ```ModuleEchoLink.conf``` located in```/etc/svxlink/svxlink.d```
+
+The defaults usually work in 99% of cases.
+
 
 # To use the Installation Script.
 
 1. Just clone my repository on a fresh installation of raspbian.
-2. cd to /home/pi/SvxLink/ 
-3. Make the file autosvx.sh executable with chmod +x autosvx.sh 
-4. Run the script ./autosvx.sh
+2. ```cd to /home/pi/SvxLink/``` 
+3. Make the file autosvx.sh executable with ```sudo chmod +x autosvx.sh ```
+4. Run the script ```./autosvx.sh```
 5. Follow the prompts and answer a few questions
 6. Reboot
 7. Done enjoy SvxLink
