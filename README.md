@@ -35,6 +35,12 @@ If you would like to help me improve my scripts. Feel free to contact me
 
 Have fun with it! But keep in mind that I have not tested them on every other Linux distribution available and I cannot offer support to you if they don't work on yours. I would love to hear your comments and I will happily look at any suggestions for new features or code fixes but I do not have the time or inclination to run and test your modified versions, act as a beta tester or even offer useful advice if your changes are not working. I am NOT an expert; I am simply sharing tools that I use everyday.
 
+# Donations
+
+However, if you find any of my script's or videos on my channel enjoyable or helpful, then any small donations would be greatly appreciated, and would help towards me creating more content. If you would like to help with a donation, you can do so via.
+
+Litecoin LTC: LMGEaMySbztMVftx6WJextU1WEQAEEnrR9
+
 
 
 
