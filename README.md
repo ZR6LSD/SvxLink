@@ -14,12 +14,12 @@ The defaults usually work in 99% of cases.
 # To use the Installation Script.
 
 1. Just clone my repository on a fresh installation of raspbian.
-2. cd to ```/home/pi/SvxLink/``` 
+2. cd to ```home/pi/SvxLink/``` 
 3. Make the file autosvx.sh executable with ```sudo chmod +x autosvx.sh ```
 4. Run the script ```./autosvx.sh```
 5. Follow the prompts and answer a few questions
 6. Reboot
-7. Done enjoy SvxLink
+7. Done 
 
 # SvxLink Server
 
