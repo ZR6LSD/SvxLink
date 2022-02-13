@@ -29,6 +29,7 @@ The SvxLink Server is a general purpose voice services system, which when connec
 # Help improve the script 
 
 If you would like to help me improve my scripts. Feel free to contact me
+zr6lsd@gmail.com 
 
 
 # Conclusion
