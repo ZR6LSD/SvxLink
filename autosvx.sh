@@ -68,9 +68,9 @@ sleep 1
                 echo "-------------------------------------------------------------------------"
 
 
-echo 'deb http://mirrordirector.raspbian.org/raspbian/ buster main' | sudo tee /etc/apt/sources.list.d/svxlink.list
+echo 'deb http://mirrordirector.raspbian.org/raspbian/ bullseye main' | sudo tee /etc/apt/sources.list.d/svxlink.list
 
-sudo apt-get -t buster install svxlink-server -y
+sudo apt-get -t bullseye install svxlink-server -y
 
 echo 'Removingthe Buster software repository'
 
@@ -81,10 +81,10 @@ sudo rm /etc/apt/sources.list.d/svxlink.list
         echo "--------------------------------------------------------------"
 
 cd /usr/share/svxlink/sounds/
-sudo wget https://github.com/sm0svx/svxlink-sounds-en_US-heather/releases/download/14.08/svxlink-sounds-en_US-heather-16k-13.12.tar.bz2
-sudo tar xvjf svxlink-sounds-en_US-heather-16k-13.12.tar.bz2
+sudo wget https://github.com/sm0svx/svxlink-sounds-en_US-heather/releases/download/19.09/svxlink-sounds-en_US-heather-16k-19.09.tar.bz2
+sudo tar xvjf svxlink-sounds-en_US-heather-16k-19.09.tar.bz2
 sudo ln -s en_US-heather-16k en_US
-sudo rm /usr/share/svxlink/sounds/svxlink-sounds-en_US-heather-16k-13.12.tar.bz2
+sudo rm /usr/share/svxlink/sounds/svxlink-sounds-en_US-heather-16k-19.09.tar.bz2
 
          echo "--------------------------------------------------------------"
          echo "          Installing svxlink into the gpio group              "
